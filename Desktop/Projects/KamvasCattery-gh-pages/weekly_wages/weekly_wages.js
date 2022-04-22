@@ -1,0 +1,3 @@
+function weeklyWage(band, weeklyHours) {
+
+};
